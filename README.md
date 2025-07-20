@@ -88,4 +88,4 @@ storefront/
 ## Live Site
 
 The live site and be viewed and interacted with here:
-[DVT Storefront](dvt-storefront.netlify.app)
+dvt-storefront.netlify.app
