@@ -43,6 +43,11 @@ const Navbar = () => {
       <div className="flex items-center space-x-4">
         {user ? (
           <>
+            <img
+              src={require("../assets/dvt_logo.jpg")}
+              alt="DVT Logo"
+              className="w-8 h-8 rounded-full mr-2 border"
+            />
             <span className="text-sm text-gray-600">Hi there DVT!</span>
             <button
               onClick={logout}

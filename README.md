@@ -84,3 +84,8 @@ storefront/
 - Update static data in `src/data/constants/`
 - Extend API logic in `src/data/api/`
 - Modify context logic in `src/context/`
+
+## Live Site
+
+The live site and be viewed and interacted with here:
+[DVT Storefront](dvt-storefront.netlify.app)
